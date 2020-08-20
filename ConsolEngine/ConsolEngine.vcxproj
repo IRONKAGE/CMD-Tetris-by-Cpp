@@ -94,6 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseApp.h" />
+    <ClInclude Include="Tetrominos.h" />
     <ClInclude Include="PerformanceCounter.h" />
     <ClInclude Include="TestApp.h" />
   </ItemGroup>

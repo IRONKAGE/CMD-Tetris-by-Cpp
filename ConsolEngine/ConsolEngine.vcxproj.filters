@@ -30,5 +30,8 @@
     <ClInclude Include="TestApp.h">
       <Filter>sources</Filter>
     </ClInclude>
+    <ClInclude Include="Tetrominos.h">
+      <Filter>sources</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
