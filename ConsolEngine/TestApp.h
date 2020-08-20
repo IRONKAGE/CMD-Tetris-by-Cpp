@@ -17,7 +17,8 @@ class TestApp : public BaseApp
 		int mObj2X;
 		int mObj2Y;
 
-		bool mDirection;
+		bool rotation = false;
+		bool acceleration = false;
 
 	public:
 		TestApp();
